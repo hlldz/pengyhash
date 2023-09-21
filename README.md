@@ -1,2 +1,2 @@
 # pengyhash
-Fast 64-bit non-cryptographic hash algorithm
+Go implementation of [pengyhash](https://github.com/tinypeng/pengyhash) v0.3.
